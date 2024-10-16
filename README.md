@@ -16,6 +16,8 @@ Check file:
 
 `ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev`
 `update_config=1`
+
+
 `network={`
 `ssid="eduroam"`
 `proto=RSN`
@@ -26,6 +28,12 @@ Check file:
 `phase1="peaplabel=0"`
 `phase2="auth=MSCHAPV2"`
 `}`
+
+---
+   identity="jo79vekylan05@tu-darmstadt.de"
+   password="zCDDSc*%s%Fya723"
+
+---
 
 
 `Check file:`
