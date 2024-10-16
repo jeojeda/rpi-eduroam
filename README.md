@@ -89,5 +89,9 @@ env ifwireless=1
 env wpa_supplicant_driver=wext,nl80211
 #end new lines
 
-
-
+links used
+https://www.elektronik-kompendium.de/sites/raspberry-pi/2205191.htm
+https://inrg.engineering.ucsc.edu/howto-connect-raspberry-to-eduroam/
+https://raspberrypi.stackexchange.com/questions/37920/how-do-i-set-up-networking-wifi-static-ip-address-on-raspbian-raspberry-pi-os/37921#37921
+https://forum.prusa3d.com/forum/general-discussion-user-experience-ideas/eduroam-network-access/
+https://forums.raspberrypi.com/viewtopic.php?p=1510664
